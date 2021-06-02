@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">AreaCalculator2</string>
+    <string name="title_activity_maps">Area Calculator</string>
+    <string name="sat_view">Satellite View</string>
+    <string name="street_view">Street View</string>
+
+</resources>

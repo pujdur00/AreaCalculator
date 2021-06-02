@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:title="@string/street_view"
+        android:numericShortcut="1"
+        android:id="@+id/mapStreet" />
+    <item
+        android:title="@string/sat_view"
+        android:numericShortcut="2"
+        android:id="@+id/mapSat" />
+</menu>
